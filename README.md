@@ -19,3 +19,5 @@ return Text(name);
 }
 
 Provider의 context.watch 또는 context.select로 해당 값을 사용하는 위젯들은 값의 변경에 따라 re-build가 발생하고 위젯이 새로운 값과 함께 다시 표시되게 됩니다.
+
+ui ++
